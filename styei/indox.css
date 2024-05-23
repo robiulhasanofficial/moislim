@@ -1,0 +1,17 @@
+.o {
+  font-size: 50px;
+  box-shadow: 20px 20px 20px chartreuse;
+  margin: 10px 500px 50px;
+  color: red;
+}
+.ta {
+  font-size: 50px;
+  color: gold;
+}
+.ha {
+  box-shadow: 20px 20px 20px crimson;
+}
+* {
+  box-shadow: 20px 20px 20px 5px chartreuse;
+  margin: 5px 3px 3px;
+}
